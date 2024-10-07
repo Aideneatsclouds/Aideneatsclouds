@@ -1,4 +1,10 @@
 ## Hi there 👋
+Im Yaaswiny, and im currently a student at Universiti Teknologi Malaysia and enrolled in a Bachelors Degree in Computer Science (Bioinformatics) with Honors. 
+
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aideneatsclouds)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Aideneatsclouds/Aideneatsclouds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
