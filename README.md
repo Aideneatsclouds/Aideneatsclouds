@@ -4,7 +4,7 @@ Im Yaaswiny, and im currently a student at Universiti Teknologi Malaysia and enr
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aideneatsclouds)](https://github.com/anuraghazra/github-readme-stats)
+![Aideneatsclouds's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aideneatsclouds&theme=maroongold_icons=true)
 
 <!--
 **Aideneatsclouds/Aideneatsclouds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
