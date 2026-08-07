@@ -5,8 +5,8 @@
 
 <p align="center">
   <a href="https://www.utm.my/"><img src="https://img.shields.io/badge/UTM-Bioinformatics-FFB6C1?style=for-the-badge" /></a>
-  <a href="https://linkedin.com/in/your-linkedin-username"><img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/yaaswiny-thinaharan-a13391331"><img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ythinaharan@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ### Hello! I'm Yaaswiny 
